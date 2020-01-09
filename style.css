@@ -1,0 +1,31 @@
+* {
+ outline: 2px dotted grey;
+ margin:0;
+ padding: 0;
+ font-size: 20 px;
+ color:rgb(255, 0,0);
+ color: blue
+  }
+  body {
+      width: 960;
+      margin:0 auto;
+
+  }
+  header{
+      background: black;
+      height: 100 px;
+  }
+
+  li{
+      list-style: none;
+  }
+ h1 {
+      color#999
+      font-size;30 px;
+      float:left;
+      margin-left
+  }
+  header a{
+      color:white;
+  }
+  nav li
